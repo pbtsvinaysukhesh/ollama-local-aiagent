@@ -1,0 +1,11 @@
+streamlit
+# --- New Ollama Backend ---
+langchain-community
+langchain-ollama
+# --- Utilities ---
+python-docx
+psutil
+pyttsx3
+llama-cpp-python
+matplotlib
+system-monitor
